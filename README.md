@@ -38,6 +38,7 @@ Here are a few things I've picked up along my learning journey.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prashantadesara&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+[![Prashant's StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/487253)](https://stackoverflow.com/users/487253/prashantadesara)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=prashantadesara)
 
 
