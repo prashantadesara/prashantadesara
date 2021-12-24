@@ -86,8 +86,17 @@ I'm Prashant. I love building utilities aimed at increasing Developer productivi
         align="center"
     />
 </div>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=prashantadesara)
 
+<br />
+
+<div align="center">      
+    <img
+        src="https://visitor-badge.glitch.me/badge?page_id=prashantadesara"?style=flat-square" 
+        align="center"
+    />
+</div>
+
+<br />
 
 <div align="center">
             <a href="https://paypal.me/prashantadesara" target="_blank" style="display: inline-block;">
