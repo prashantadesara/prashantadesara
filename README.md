@@ -80,7 +80,9 @@ I'm Prashant. I love building utilities aimed at increasing Developer productivi
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
-![Followers](https://img.shields.io/github/followers/prashantadesara)
+<div align="center">
+            (https://img.shields.io/github/followers/prashantadesara)
+</div>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=prashantadesara)
 
 <div align="center">
