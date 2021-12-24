@@ -29,7 +29,7 @@ Here are a few things I've picked up along my learning journey.
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Most Language Used
-[![Most Language Used](https://github-readme-stats.vercel.app/api/top-langs/?username=prashantadesara)]
+![Most Language Used](https://github-readme-stats.vercel.app/api/top-langs/?username=prashantadesara)
 
 ## 📫 Get in touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-adesara-5551a2a9/) 
