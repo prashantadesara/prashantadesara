@@ -71,7 +71,9 @@ I'm Prashant. I love building utilities aimed at increasing Developer productivi
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 
+
 <br />
+
 
 [![Prashant's GitHub stats](https://github-readme-stats.vercel.app/api?username=prashantadesara&show_icons=true)](https://github.com/prashantadesara/)
 
@@ -81,19 +83,14 @@ I'm Prashant. I love building utilities aimed at increasing Developer productivi
 
 <br />
 
-  
 <img src="https://img.shields.io/github/followers/prashantadesara?style=flat-square" align="center"/>
 <img src="https://visitor-badge.glitch.me/badge?page_id=prashantadesara"?style=flat-square" align="center"/>
-
-<br />
-
 <a href="https://paypal.me/prashantadesara" target="_blank" style="display: inline-block;">
     <img
         src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
         align="center"
     />
 </a>
-<br />
 
 <!--
 **prashantadesara/prashantadesara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
