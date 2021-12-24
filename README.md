@@ -5,7 +5,7 @@ I'm Prashant. I love building utilities aimed at increasing Developer productivi
 - 🔭 I’m currently working on Android Development
 - 🌱 I’m currently learning new things everyday!
 - ⚡ Fun fact: I love to play cricket
-- 💖 Show support! [Paypal](https://paypal.me/prashantadesara)
+
 
 ## ⚡ Tech Stack
 <table><tr><td valign="top" width="33%">
@@ -55,7 +55,6 @@ I'm Prashant. I love building utilities aimed at increasing Developer productivi
 <br/>  
 
 
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Most Language Used
 ![Most Language Used](https://github-readme-stats.vercel.app/api/top-langs/?username=prashantadesara)
 
@@ -72,8 +71,6 @@ I'm Prashant. I love building utilities aimed at increasing Developer productivi
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-adesara-5551a2a9/) 
 
 [![Prashant's GitHub stats](https://github-readme-stats.vercel.app/api?username=prashantadesara&show_icons=true)](https://github.com/prashantadesara/)
 
@@ -85,6 +82,14 @@ I'm Prashant. I love building utilities aimed at increasing Developer productivi
 ![Followers](https://img.shields.io/github/followers/prashantadesara)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=prashantadesara)
 
+<div align="center">
+            <a href="https://paypal.me/prashantadesara" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
+                    align="center"
+                />
+            </a></div>
+<br />
 
 <!--
 **prashantadesara/prashantadesara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
