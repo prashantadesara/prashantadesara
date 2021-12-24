@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center"  />  
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 20%" />  
 <br />
 
 I'm Prashant. I love building utilities aimed at increasing Developer productivity :raised_hands: 
