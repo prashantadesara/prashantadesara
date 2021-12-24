@@ -80,11 +80,8 @@ I'm Prashant. I love building utilities aimed at increasing Developer productivi
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<div align="center">  
-            [![Prashant's StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/487253)](https://stackoverflow.com/users/487253/prashantadesara)
-            ![Followers](https://img.shields.io/github/followers/prashantadesara)
-            ![visitors](https://visitor-badge.glitch.me/badge?page_id=prashantadesara)
-</div>
+![Followers](https://img.shields.io/github/followers/prashantadesara)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=prashantadesara)
 
 <div align="center">
             <a href="https://paypal.me/prashantadesara" target="_blank" style="display: inline-block;">
