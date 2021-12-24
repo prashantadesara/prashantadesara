@@ -125,8 +125,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+## Useful sites
 https://profilinator.rishav.dev/
-
+https://github.com/abhisheknaiidu/awesome-github-profile-readme
+https://github.com/coderjojo/creative-profile-readme
 
 ## ⚡ Tech Stack
 
