@@ -56,16 +56,8 @@ I'm Prashant. I love building utilities aimed at increasing Developer productivi
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Most Language Used
-<div align="center">      
-    <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantadesara?style=flat-square" 
-        align="center"
-    />
-</div>
+![Most Language Used](https://github-readme-stats.vercel.app/api/top-langs/?username=prashantadesara&layout=compact)
 
-<div align="center">
-            ![Most Language Used](https://github-readme-stats.vercel.app/api/top-langs/?username=prashantadesara)
-</div>
 
 ## 📫 Get in touch
 
