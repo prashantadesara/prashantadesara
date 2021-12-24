@@ -1,7 +1,5 @@
 <!-- ### Hi there 👋 -->
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 20%" />  
-<br />
-
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 25%" />
 I'm Prashant. I love building utilities aimed at increasing Developer productivity :raised_hands: 
 
 - 🔭 I’m currently working on Android Development
