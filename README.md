@@ -56,7 +56,9 @@ I'm Prashant. I love building utilities aimed at increasing Developer productivi
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Most Language Used
-![Most Language Used](https://github-readme-stats.vercel.app/api/top-langs/?username=prashantadesara)
+<div align="center">  
+            ![Most Language Used](https://github-readme-stats.vercel.app/api/top-langs/?username=prashantadesara)
+</div>
 
 ## 📫 Get in touch
 
@@ -72,16 +74,18 @@ I'm Prashant. I love building utilities aimed at increasing Developer productivi
 </a>  
 </div>  
 
+<div align="center">  
 [![Prashant's GitHub stats](https://github-readme-stats.vercel.app/api?username=prashantadesara&show_icons=true)](https://github.com/prashantadesara/)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prashantadesara&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
+
 [![Prashant's StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/487253)](https://stackoverflow.com/users/487253/prashantadesara)
 ![Followers](https://img.shields.io/github/followers/prashantadesara)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=prashantadesara)
-
+</div>
 <div align="center">
             <a href="https://paypal.me/prashantadesara" target="_blank" style="display: inline-block;">
                 <img
