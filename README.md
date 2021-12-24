@@ -81,8 +81,6 @@ I'm Prashant. I love building utilities aimed at increasing Developer productivi
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<br />
-
 <img src="https://img.shields.io/github/followers/prashantadesara?style=flat-square" align="center"/>
 <img src="https://visitor-badge.glitch.me/badge?page_id=prashantadesara"?style=flat-square" align="center"/>
 <a href="https://paypal.me/prashantadesara" target="_blank" style="display: inline-block;">
