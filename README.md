@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+I'm Prashant. I love building utilities aimed at increasing Developer productivity :raised_hands: 
+
 - 🔭 I’m currently working on Android Development
 - 🌱 I’m currently learning new things everyday!
 - ⚡ Fun fact: I love to play cricket
